@@ -49,4 +49,4 @@ Para replicar el entorno de trabajo, sigue estos pasos:
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/AlexeiEACS/mlops-project
-   cd tu_proyecto
+   cd mlops-project
